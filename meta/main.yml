@@ -2,7 +2,7 @@
 galaxy_info:
   author: Konstantinos Christidis
   description: An Ansible role to install Test.
-  role_name: ansible_galaxy_t
+  role_name: ansible_galaxy
   license: Apache
   min_ansible_version: 2.4
   platforms:
